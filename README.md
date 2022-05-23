@@ -5,7 +5,7 @@
 1. Update the README in your new repo with:
     * a `How-To` section containing any instructions needed to execute your program.
     * an `Assumptions` section containing documentation on any assumptions made while interpreting the requirements.
-1. Send an email to Scoir (andrew@scoir.com) with a link to your newly created repo containing the completed exercise.
+1. Send an email to Scoir (andrew@scoir.com) with a link to your newly created repo containing the completed exercise (preferably no later than the day before your interview).
 
 ## Expectations
 1. This exercise is meant to drive a conversation. 
