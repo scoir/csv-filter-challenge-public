@@ -1,11 +1,11 @@
 # csv-filter-challenge-public
 # Instructions
 1. Click "Use this template" to create a copy of this repository in your personal github account.  
-1. Using technology of your choice, complete assignment listed below.
+1. Using technology of your choice, complete assignment listed below (we use [GoLang](https://go.dev/) at Scoir, so if you know Go, show it off!).
 1. Update the README in your new repo with:
     * a `How-To` section containing any instructions needed to execute your program.
     * an `Assumptions` section containing documentation on any assumptions made while interpreting the requirements.
-1. Send an email to Scoir (andrew@scoir.com) with a link to your newly created repo containing the completed exercise (preferably no later than one day before your interview).
+1. Send an email to Scoir (sbeyers@scoir.com and msullivan@scoir.com) with a link to your newly created repo containing the completed exercise (preferably no later than one day before your interview).
 
 ## Expectations
 1. This exercise is meant to drive a conversation. 
